@@ -42,5 +42,11 @@ for i in range (0,b-1,1):
         arrf.append(random.choice(arrrd))
         arrrd=[]
 
-print(arrf)
+print(sorted(arrf)) #오름차순 정렬
+print(len(arrf)) #인덱스 개수 출력
 
+IXlist = []
+for i in sorted(arrf):
+    IXlist.append('pPlane1.f[%d]' %i) #마야 MEL 코딩용 인덱스 출력
+
+print(IXlist)
