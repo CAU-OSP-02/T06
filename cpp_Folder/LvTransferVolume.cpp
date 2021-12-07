@@ -12,7 +12,7 @@ ALvTransferVolume::ALvTransferVolume()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
-	TransferVolume = CreateDefaultSubobject<UBoxComponent>(TEXT("TransferVolum")); 
+	TransferVolume = CreateDefaultSubobject<UBoxComponent>(TEXT("TransferVolume")); 
 	RootComponent = TransferVolume;
 	TransferVolume->SetCollisionProfileName(TEXT("OverlapOnlyPawn"));
 }
