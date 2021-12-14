@@ -1,7 +1,4 @@
 # T06
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white"><img src="https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white"><img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"><img src="https://img.shields.io/badge/UNREAL ENGINE-007396?style=for-the-badge&logo=unreal%20engine&logoColor=white">
 
-### Main Screen Design
-![KakaoTalk_20211206_004802642](https://user-images.githubusercontent.com/81912182/144753575-59460735-d967-45f4-841f-5eaeba9f35aa.png)
-
-### Prototype Image 
-![prototype](https://user-images.githubusercontent.com/81912182/144753810-4c3dbb07-c1e3-4dc9-a70d-d61a706ce4a7.png)
+## Finding AssignmExit
