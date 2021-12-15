@@ -7,7 +7,7 @@
 #include "FloatingItem.generated.h"
 
 UCLASS()
-class ITEMCODE_API AFloatingItem : public AActor
+class OSP_API AFloatingItem : public AActor
 {
 	GENERATED_BODY()
 	
