@@ -24,10 +24,13 @@ void AFloatingItem::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 	FVector NewLocation = GetActorLocation();
+	FRotator NewRotation = GetActorRotation();
 	float DeltaHeight = (FMath::Sin(RunningTime + DeltaTime) - FMath::Sin(RunningTime));
+	NewRotation.Yaw += DeltaTime * 20.0f
 	NewLocation.Z += DeltaHeight * 30.0f;
 	RunningTime += DeltaTime;
 	SetActorLocation(NewLocation);
+	SetActorRotation(NewRotation);
 
 
 }
