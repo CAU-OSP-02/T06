@@ -3,7 +3,7 @@
 # Finding AssignmExit / _과제출구_
 
 #### Main Screen
-![mainscreen gif](https://user-images.githubusercontent.com/81911660/146589412-63f5ea7e-a773-4aaf-b749-451cf461b1f4.gif)
+<img src="https://user-images.githubusercontent.com/81911660/146589412-63f5ea7e-a773-4aaf-b749-451cf461b1f4.gif" width="100%" height="100%"/>
 
 #### | **Members** |
 CAU College of Art and Technology _[Opensource Programing Class02]_ Team06
