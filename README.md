@@ -1,6 +1,7 @@
 <img src="https://img.shields.io/github/license/CAU-OSP-02/T06"> 
 
 # Finding AssignmExit / _과제출구_
+[Demo Video URL](https://youtu.be/ZY4I9PsOENc)
 
 #### Main Screen
 <img src="https://user-images.githubusercontent.com/81911660/146589412-63f5ea7e-a773-4aaf-b749-451cf461b1f4.gif" width="100%" height="100%"/>
